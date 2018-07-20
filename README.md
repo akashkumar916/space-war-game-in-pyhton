@@ -1,5 +1,5 @@
 # space-war-game-in-pyhton
-<h1>Space war game in pyhton</h1>
+
 <img src='1.jpg' /><br/><br/>
 <b>Here is the source code</b>
 <pre>
