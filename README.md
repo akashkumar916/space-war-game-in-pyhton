@@ -1,4 +1,4 @@
-# space-war-game-in-pyhton
+# space-war-game-in-python
 
 <img src='1.jpg' /><br/><br/>
 <b>Here is the source code</b>
